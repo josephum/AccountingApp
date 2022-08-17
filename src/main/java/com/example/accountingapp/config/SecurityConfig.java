@@ -67,7 +67,7 @@ public class SecurityConfig {
                 .and()
                 .rememberMe()
                     .tokenValiditySeconds(120)
-                    .key("cydeo")
+                    .key("josephum")
                     .userDetailsService(securityService)
                 .and().build();
 

@@ -7,16 +7,16 @@ CONTAPLUS
 ○ Purchase,  
 ○ Stock management,  
 ○ Administrative operations.   
-●	A Software Development Company “CYDEO” provides such capabilities with a webbased accounting application with yearly subscriptions.   
+●	A Software Development Company “JOSEPHUM INC” provides such capabilities with a webbased accounting application with yearly subscriptions.   
 ●	When Company X pays for first month subscription, an ADMIN username and password is provided. 
 ●	With the provided credentials ADMIN of Company X can create MANAGER and EMPLOYEE users and Company X can keep the track of accounting processes.  
 ●	Company Y, Z and many others might follow the same track for their needs as well. 
  
-Task: You are a software developer working for “CYDEO”. Design a web-based Accounting App for companies like “Company X” with capabilities defined in the following paragraphs.  
+Task: You are a software developer working for “JOSEPHUM INC”. Design a web-based Accounting App for companies like “Company X” with capabilities defined in the following paragraphs.  
 
 
 1.2 Purpose of Document  
-This is a Requirements Specification document for a new web-based accounting system for Cydeo School Graduation Project. In the market there is a need for a new web-based accounting system.  
+This is a Requirements Specification document for a new web-based accounting system. In the market there is a need for a new web-based accounting system.  
 The accounting application will operate below main capabilities: 
 ●	Create users with ROOT, ADMIN, MANAGER, and EMPLOYEE roles 
 ●	ADMIN user will crud companies, clients, and vendors 
