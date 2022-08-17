@@ -11,8 +11,6 @@ A “Company X” needs a web based application to manage accounting tasks such 
 ●	When Company X pays for first month subscription, an ADMIN username and password is provided. 
 ●	With the provided credentials ADMIN of Company X can create MANAGER and EMPLOYEE users and Company X can keep the track of accounting processes.  
 ●	Company Y, Z and many others might follow the same track for their needs as well. 
- 
-Task: You are a software developer working for “JOSEPHUM INC”. Design a web-based Accounting App for companies like “Company X” with capabilities defined in the following paragraphs.  
 
 
 1.2 Purpose of Document  
