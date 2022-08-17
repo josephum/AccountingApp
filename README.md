@@ -2,7 +2,7 @@ CONTAPLUS
 
 1. Introduction  
 1.1 Scenario  
-●	“Company X” needs a web based application to manage accounting tasks such  as:  
+A “Company X” needs a web based application to manage accounting tasks such  as:  
 ○ Sales,   
 ○ Purchase,  
 ○ Stock management,  
