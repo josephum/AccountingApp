@@ -2,12 +2,12 @@ CONTAPLUS
 
 1. Introduction  
 1.1 Scenario  
-●	“Company X” needs a web based application to manage accounting tasks such  as:  
+A “Company X” needs a web based application to manage accounting tasks such  as:  
 ○ Sales,   
 ○ Purchase,  
 ○ Stock management,  
 ○ Administrative operations.   
-●	A Software Development Company “CYDEO” provides such capabilities with a webbased accounting application with yearly subscriptions.   
+●	A Software Development Company “JOSEPHUM INC” provides such capabilities with a webbased accounting application with yearly subscriptions.   
 ●	When Company X pays for first month subscription, an ADMIN username and password is provided. 
 ●	With the provided credentials ADMIN of Company X can create MANAGER and EMPLOYEE users and Company X can keep the track of accounting processes.  
 ●	Company Y, Z and many others might follow the same track for their needs as well. 
