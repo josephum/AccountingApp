@@ -1,7 +1,7 @@
-CONTAPLUS
+# CONTAPLUS
 
-1. Introduction  
-1.1 Scenario  
+## 1. Introduction  
+### 1.1 Scenario  
 A “Company X” needs a web based application to manage accounting tasks such  as:  
 ○ Sales,   
 ○ Purchase,  
@@ -13,7 +13,7 @@ A “Company X” needs a web based application to manage accounting tasks such 
 ●	Company Y, Z and many others might follow the same track for their needs as well. 
 
 
-1.2 Purpose of Document  
+### 1.2 Purpose of Document  
 This is a Requirements Specification document for a new web-based accounting system. In the market there is a need for a new web-based accounting system.  
 The accounting application will operate below main capabilities: 
 ●	Create users with ROOT, ADMIN, MANAGER, and EMPLOYEE roles 
@@ -24,12 +24,11 @@ The accounting application will operate below main capabilities:
 ●	MANAGERs and EMPLOYEEs will crud invoices (purchase or sales)  ● MANAGERs will generate stock-based reports. 
 ●	MANAGER will pay application monthly usage fee for the application ● Aforementioned processes will be managed under separate companies  ● This will be a Software as a Service (SAAS).   
 
-1.3 Project Scope  
+## 1.3 Project Scope  
 The scope of this project is a web-based system that supports the accounting operations of SMC. The web site will support major accounting operations like sales, purchase and stock management as well as administrative operations.
 
-1.4 System Purpose
-
-1.4.1 Users
+## 1.4 System Purpose
+### 1.4.1 Users
 
 Those who will primarily benefit from the new system and those who will be affected
 by
@@ -52,7 +51,7 @@ EMPLOYEE:
 ● Display Stock report
  
  
-1.4.2 Responsibilities  
+### 1.4.2 Responsibilities  
 The primary responsibilities of the new system:  
 ●	Main dashboard should have below statistics by company  
 ○	Total purchase invoice amount of current year  
