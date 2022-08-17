@@ -17,13 +17,13 @@ A Software Development Company “JOSEPHUM INC” provides such capabilities wit
 ### 1.2 Purpose of Document  
 This is a Requirements Specification document for a new web-based accounting system. In the market there is a need for a new web-based accounting system.  
 The accounting application will operate below main capabilities: 
-●	Create users with ROOT, ADMIN, MANAGER, and EMPLOYEE roles 
-●	ADMIN user will crud companies, clients, and vendors 
-●	ROOT user will crud companies and ADMIN user for the company 
-●	ADMIN user will crud MANAGERs and EMPLOYEEs for his/her company 
-●	MANAGERs will crud categories and products 
-●	MANAGERs and EMPLOYEEs will crud invoices (purchase or sales)  ● MANAGERs will generate stock-based reports. 
-●	MANAGER will pay application monthly usage fee for the application ● Aforementioned processes will be managed under separate companies  ● This will be a Software as a Service (SAAS).   
+1.	Create users with ROOT, ADMIN, MANAGER, and EMPLOYEE roles 
+2.	ADMIN user will crud companies, clients, and vendors 
+3.	ROOT user will crud companies and ADMIN user for the company 
+4.	ADMIN user will crud MANAGERs and EMPLOYEEs for his/her company 
+5.	MANAGERs will crud categories and products 
+6.	MANAGERs and EMPLOYEEs will crud invoices (purchase or sales)  ● MANAGERs will generate stock-based reports. 
+7.	MANAGER will pay application monthly usage fee for the application ● Aforementioned processes will be managed under separate companies  ● This will be a Software as a Service (SAAS).   
 
 ### 1.3 Project Scope  
 The scope of this project is a web-based system that supports the accounting operations of SMC. The web site will support major accounting operations like sales, purchase and stock management as well as administrative operations.
