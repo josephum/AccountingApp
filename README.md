@@ -78,3 +78,28 @@ The primary responsibilities of the new system:
 2. FIFO approach should be used. The first product entered stocks will be sold first. And the profit/loss for this product will be calculated based on these computations.   
 - Menu should be populated by user credentials.  
 - Each service should you logged using Log4j2 and daily base log file must be rolled
+
+### 1.2 Interface design
+Some examples of the User Interface below.
+#### Login Page
+![alt text](docs/loginPage.png)
+#### Main Page (Dashboard)
+![alt text](docs/dashboard.png)
+#### Company Registration
+![alt text](docs/company.png)
+#### User Registration
+![alt text](docs/user.png)
+#### Client/Vendor Registration
+![alt text](docs/clientVendor.png)
+#### Stock Management Menu - Products
+![alt text](docs/product.png)
+#### Stock Management Menu - Category
+![alt text](docs/category.png)
+#### Invoices Menu - Purchase
+![alt text](docs/purchase.png)
+#### Invoices Menu- Sale
+![alt text](docs/sales.png)
+#### Reporting Menu - Stock Report
+![alt text](docs/stock.png)
+#### Reporting Menu - Profit/Loss
+![alt text](docs/profitLoss.png)
